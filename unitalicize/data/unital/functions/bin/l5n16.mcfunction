@@ -1,0 +1,2 @@
+execute unless score #l unital.check matches 33.. run item modify entity @s inventory.23 unital:rename
+execute if score #l unital.check matches 33.. run item modify entity @s inventory.24 unital:rename

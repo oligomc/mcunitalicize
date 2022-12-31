@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Unitalicize item names when renamed in an anvil"
+  }
+}

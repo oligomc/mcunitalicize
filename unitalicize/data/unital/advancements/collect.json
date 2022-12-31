@@ -1,0 +1,15 @@
+{
+    "criteria": {
+      "pick_up_renamed_item": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "nbt": "{display:{}}"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

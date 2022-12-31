@@ -1,0 +1,16 @@
+{
+  "function": "minecraft:set_name",
+  "entity": "this",
+  "name": {
+    "text": "",
+    "italic": false,
+    "extra": [
+      {
+        "nbt": "temp[0].tag.display.Name",
+        "storage": "unital:data",
+        "interpret": true,
+        "italic": false
+      }
+    ]
+  }
+}
